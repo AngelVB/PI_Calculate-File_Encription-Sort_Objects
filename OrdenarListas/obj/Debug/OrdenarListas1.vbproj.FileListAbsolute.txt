@@ -1,0 +1,4 @@
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Entrega1\OrdenarListas\bin\Debug\OrdenarListas.exe.config
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Entrega1\OrdenarListas\obj\Debug\OrdenarListas.exe
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Entrega1\OrdenarListas\obj\Debug\OrdenarListas.xml
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Entrega1\OrdenarListas\obj\Debug\OrdenarListas.pdb

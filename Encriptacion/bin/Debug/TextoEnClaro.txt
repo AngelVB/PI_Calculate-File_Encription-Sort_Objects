@@ -1,0 +1,31 @@
+﻿Rails Installer (Windows)
+Installing Rails on Windows used to be a real pain, but thanks to the efforts of the good
+people at Engine Yard—especially Dr. Nic Williams and Wayne E. Seguin—installing
+Rails and related software on Windows is now easy. If you are using Windows, go
+to Rails Installer and download the Rails Installer executable and view the excellent
+installation video. Double-click the executable and follow the instructions to install
+Git (so you can skip Section 1.2.2), Ruby (skip Section 1.2.2), RubyGems (skip
+Section 1.2.2), and Rails itself (skip Section 1.2.2). Once the installation has finished,
+you can skip right to the creation of the first application in Section 1.2.3.
+Bear in mind that the Rails Installer might use a slightly different version of Rails
+from the one installed in Section 1.2.2, which might cause incompatibilities. To fix this,
+I am currently working with Nic and Wayne to create a list of Rails Installers ordered
+by Rails version number.
+Install Git
+Much of the Rails ecosystem depends in one way or another on a version control system
+called Git (covered in more detail in Section 1.3). Because its use is ubiquitous, you
+should install Git even at this early stage; I suggest following the installation instructions
+for your platform at the Installing Git section of Pro Git.
+Install Ruby
+The next step is to install Ruby. It’s possible that your system already has it; try
+running
+$ ruby -v
+ruby 1.9.3
+to see the version number. Rails 3 requires Ruby 1.8.7 or later and works best with
+Ruby 1.9.x. This tutorial assumes that most readers are using Ruby 1.9.2 or 1.9.3, but
+Ruby 1.8.7 should work as well (although there is one syntax difference, covered in
+Chapter 4, and assorted minor differences in output).
+As part of installing Ruby, if you are using OS X or Linux, I strongly recommend
+using Ruby Version Manager (RVM), which allows you to install and manage
+multiple versions of Ruby on the same machine. (The Pik project accomplishes a
+similar feat on Windows.) This is particularly important if you want to run different

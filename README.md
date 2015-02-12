@@ -7,7 +7,7 @@ WALLIS and LEIBNITZ-GREGORY Methods PI Calculator
 
 Project: Encriptacion 
 
-TXT encript and decript method witb bit rotation and XOR operation.
+TXT encript and decript method with bit rotation and XOR operation.
 
 Project: OrdenarListas: 
 
